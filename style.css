@@ -1,0 +1,91 @@
+/* <style> */
+body {
+  background-color: rgb(235, 244, 249);
+}
+
+.imgcontainer {
+  text-align: center;
+
+  /* margin: 20px 10px; */
+
+}
+
+/* .header span {
+            /* text-align: center; */
+/* border: 2px solid grey; */
+/* max-width: 300px; */
+/* display: block; */
+/* margin: auto; */
+/* background-color: rgb(160, 242, 172); */
+/* border-radius: 10px; */
+
+
+
+#btn {
+  width: 100%;
+  border: 2px solid rgb(242, 164, 164);
+  border-radius: 5px;
+  height: 50px;
+  background-color: rgb(247, 177, 177);
+  font-size: larger;
+  cursor: pointer;
+
+}
+
+#btn:hover {
+
+  background-color: rgb(144, 247, 144);
+}
+
+.container {
+  /* text-align: center; */
+  border: 2px solid rgb(242, 221, 221);
+  /* width: 300px; */
+  /* display: block; */
+  /* margin: auto; */
+  padding: 35px 20px;
+  margin: 20px 25px;
+  box-sizing: border-box;
+  background-color: rgb(248, 242, 235);
+  border-radius: 8px;
+
+}
+
+input[type=text],
+input[type=password],
+input[type=email] {
+  width: 100%;
+  margin: 10px auto;
+  box-sizing: border-box;
+  border: 1px solid rgb(243, 184, 184);
+  border-radius: 5px;
+  height: 38px;
+  background-color: rgb(247, 242, 235);
+
+
+}
+
+input[type=email]:hover {
+  background-color: rgba(198, 219, 236, 0.704);
+  border: 1px solid black;
+}
+
+input[type=text]:hover {
+  background-color: rgba(198, 219, 236, 0.704);
+  border: 1px solid black;
+}
+
+input[type=password]:hover {
+  background-color: rgba(198, 219, 236, 0.704);
+  border: 1px solid black;
+}
+
+span.psw {
+
+
+  float: right;
+  padding-bottom: 10px;
+  margin: 10px 30px;
+}
+
+/* </style> */
